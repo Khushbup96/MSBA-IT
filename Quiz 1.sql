@@ -1,4 +1,4 @@
-use AdventureWorksDW2012;
+use AdventureWorks2012;
 
 
 /*a.	Show First name and last name of employees whose job title is “Sales Representative”, ranking from oldest to youngest. You may use HumanResources.Employee table and Person.Person table. (14 rows)*/
